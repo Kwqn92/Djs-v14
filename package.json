@@ -1,0 +1,20 @@
+{
+  "name": "kwqn-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kwqn.js",
+  "scripts": {
+    "start": "node kwqn.js"
+  },
+  "keywords": [],
+  "author": "Hartey#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.1.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
