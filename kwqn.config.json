@@ -1,0 +1,6 @@
+{
+    "owner": "OWNER ID",
+    "token":"TOKEN",
+    "mongoDB":"MONGO LINK", 
+    "clientId": "CLIENT ID"
+}
